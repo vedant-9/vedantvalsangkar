@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vedantvalsangkar@gmail.com**
 
-- ⚡ Fun fact **I am good at Chess!!**
+- ⚡ Fun fact **I am good at Chess!!** <a href="https://www.chess.com/member/vedant_1" target="blank">Play with me!</a>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
