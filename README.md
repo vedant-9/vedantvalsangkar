@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Competitive Programming, Web Development**
 
-- 📫 How to reach me **vedantvalsangkar@gmail.com**
+- 📫 How to reach me **vedant.buisness@outlook.com**
 
 - ⚡ Fun fact **I am good at Chess!!** <a href="https://www.chess.com/member/vedant_1" target="blank">Play with me!</a>
 
