@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Valsangkar</h1>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vedantvalsangkar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vedant-9&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me
 - 👯 I’m looking to collaborate on **various projects**
@@ -71,10 +71,10 @@
 
 # 📊 GitHub Stats:
 <p align = "center">
-<a><img src="https://github-readme-stats.vercel.app/api?username=vedantvalsangkar&theme=radical&hide_border=false&include_all_commits=true&count_private=true"></img></a>
-<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantvalsangkar&theme=radical&hide_border=false"></img></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=vedant-9&theme=radical&hide_border=false&include_all_commits=true&count_private=true"></img></a>
+<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-9&theme=radical&hide_border=false"></img></a>
 
-[//]: # (<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantvalsangkar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></a>)
+[//]: # (<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-9&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></a>)
 </p>
 
 ### ✍️ Random Dev Quote
@@ -86,7 +86,7 @@
 <a href="https://www.codechef.com/users/vedant_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vedant_1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vedant_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vedant_1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vedant_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vedant_1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vedantvalsangkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedantvalsangkar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vedant-5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedantvalsangkar" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@vedant_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vedant_1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vedantvalsangkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vedantvalsangkar" height="30" width="40" /></a>
 </p>
